@@ -1,5 +1,5 @@
 """
-test_floodfill.py: Test drawing class and flood fill algorithm
+test_floodfill.py: Test drawing class and flood fill algorithm.
 """
 
 from pytest import fixture, raises
