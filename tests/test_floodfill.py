@@ -4,7 +4,7 @@ test_floodfill.py: Test flood fill algorithm
 
 from pytest import fixture, raises
 import numpy as np
-from FloodFill.flood_fill import get_mask
+from src.FloodFill.flood_fill import get_mask
 
 
 @fixture
