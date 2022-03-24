@@ -1,3 +1,3 @@
 # FloodFill
 
-![Tests](https://github.com/JEPooley/FloodFill/actions/workflows/python-app.yml/badge.svg)
+![Unit Tests](https://github.com/JEPooley/FloodFill/actions/workflows/python-app.yml/badge.svg)
