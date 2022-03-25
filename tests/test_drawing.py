@@ -4,8 +4,8 @@ test_floodfill.py: Test drawing class and flood fill algorithm.
 
 from pytest import fixture, raises
 import numpy as np
-from FloodFill.drawing import Drawing
-from FloodFill.colours import Colours
+from src.FloodFill.drawing import Drawing
+from src.FloodFill.colours import Colours
 
 
 @fixture
