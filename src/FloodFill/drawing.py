@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 from scipy.ndimage import label
 
-from FloodFill.colours import Colours
+from src.FloodFill.colours import Colours
 
 
 class Drawing:
